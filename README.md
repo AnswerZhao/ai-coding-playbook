@@ -20,7 +20,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 - [cc-sdd](https://github.com/gotalab/cc-sdd): Kiro compatible Spec-Driven Development for Claude Code, Gemini CLI and Cursor. High quality slash commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI ⭐ 954 `🔤 TypeScript`
 - [Disciplined-AI-Software-Development](https://github.com/Varietyz/Disciplined-AI-Software-Development): This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints. ⭐ 267 `🔤 Python`
 - [claude-conductor](https://github.com/superbasicstudio/claude-conductor): Claude Conductor - a simple Claude Code framework ⭐ 188 `🔤 JavaScript`
-- [](https://github.com/pdoronila/cc-sdd): Spec Driven Development Workflow inside Claude-Code
+- [cc-sdd](https://github.com/pdoronila/cc-sdd): Spec Driven Development Workflow inside Claude-Code
 
 ## Workflow & Automation
 
