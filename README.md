@@ -46,8 +46,10 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 
 - [claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. ⭐ 17148 `🔤 TypeScript`
 - [opcode](https://github.com/getAsterisk/opcode): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. ⭐ 16019 `🔤 TypeScript`
+- [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework): A meta-programming configuration framework that transforms Claude Code into a structured development platform through behavioral instruction injection and component orchestration. It provides systematic workflow automation with powerful tools and intelligent agents. ⭐ 15300
 - [claude-flow](https://github.com/ruvnet/claude-flow): Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration. ⭐ 7353 `🔤 TypeScript`
 - [zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server): The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one. ⭐ 6990 `🔤 Python`
+- [claude-code-templates](https://github.com/davila7/claude-code-templates): Ready-to-use configurations for Anthropic's Claude Code. A comprehensive collection of AI agents, custom commands, settings, hooks, external integrations (MCPs), and project templates to enhance your development workflow. ⭐ 5700
 - [claude-code-templates](https://github.com/davila7/claude-code-templates): CLI tool for configuring and monitoring Claude Code ⭐ 5603 `🔤 JavaScript`
 - [ccpm](https://github.com/automazeio/ccpm): Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. ⭐ 4296 `🔤 Shell`
 - [claude-context](https://github.com/zilliztech/claude-context): Code search MCP for Claude Code. Make entire codebase the context for any coding agent. ⭐ 3444 `🔤 TypeScript`
@@ -67,6 +69,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 - [claude-code-mastering](https://github.com/revfactory/claude-code-mastering): None ⭐ 673 `🔤 JavaScript`
 - [claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook): A collection of settings to make Claude Code more useful. ⭐ 668 `🔤 Shell`
 - [CCometixLine](https://github.com/Haleclipse/CCometixLine): Claude Code statusline tool written in Rust ⭐ 507 `🔤 Rust`
+
 
 ## Agents & Sub-Agents
 
