@@ -33,6 +33,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 - [Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit): Handle context at scale - my custom Claude Code workflow including hooks, mcp and sub agents ⭐ 1049 `🔤 Shell`
 - [commands](https://github.com/wshobson/commands): A collection of production-ready slash commands for Claude Code ⭐ 673
 - [Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite): Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and architectural analysis. ⭐ 652 `🔤 Shell`
+- [myclaude](https://github.com/cexll/myclaude): Cladue Code AI Team Workflow Sub Agents. ⭐ 635
 - [claude-commands](https://github.com/badlogic/claude-commands): Global Claude Code commands and workflows ⭐ 437
 - [claudecode-rule2hook](https://github.com/zxdxjtu/claudecode-rule2hook): Transform natural language project rules into Claude Code automation hooks - Write rules in plain English and let Claude  automatically generate powerful hooks for code formatting, testing, validation and more ⭐ 355 `🔤 Python`
 - [cc-sdd](https://github.com/pdoronila/cc-sdd): Spec Driven Development Workflow inside Claude-Code ⭐ 50 `🔤 Shell`
