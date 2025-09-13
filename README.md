@@ -11,6 +11,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 - [Awesome Lists & Collections](#awesome-lists-and-collections)
 - [UI & Interface](#ui-and-interface)
 - [Monitoring & Analytics](#monitoring-and-analytics)
+- [AI Coding Blogs](#ai-coding-blogs)
 
 ## AI Coding Frameworks
 
@@ -69,6 +70,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 - [claude-code-mastering](https://github.com/revfactory/claude-code-mastering): None ⭐ 673 `🔤 JavaScript`
 - [claude-code-cookbook](https://github.com/wasabeef/claude-code-cookbook): A collection of settings to make Claude Code more useful. ⭐ 668 `🔤 Shell`
 - [CCometixLine](https://github.com/Haleclipse/CCometixLine): Claude Code statusline tool written in Rust ⭐ 507 `🔤 Rust`
+- [claude-powerline](https://github.com/Owloops/claude-powerline): Beautiful vim-style powerline statusline for Claude Code ⭐ 335 `🔤 TypeScript`
 
 
 ## Agents & Sub-Agents
@@ -124,6 +126,11 @@ The classification prioritizes **methodology-focused categories**:
 1. **AI Coding Frameworks** - Core development frameworks and methodologies
 2. **Workflow & Automation** - Development workflows and automation tools
 3. **Context Engineering** - Context management and optimization techniques
+
+## AI Coding Blogs
+
+- [How to Use Claude Code Subagents to Parallelize Development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
+
 
 ## License
 
