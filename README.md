@@ -46,6 +46,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 
 ## Claude Code Tools & Extensions
 
+- [superpowers](https://github.com/obra/superpowers): Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - [claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. ⭐ 17148 `🔤 TypeScript`
 - [opcode](https://github.com/getAsterisk/opcode): A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. ⭐ 16019 `🔤 TypeScript`
 - [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework): A meta-programming configuration framework that transforms Claude Code into a structured development platform through behavioral instruction injection and component orchestration. It provides systematic workflow automation with powerful tools and intelligent agents. ⭐ 15300
