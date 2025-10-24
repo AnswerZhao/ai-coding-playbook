@@ -40,26 +40,6 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 - [context-engineering-intro](https://github.com/coleam00/context-engineering-intro): Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant! ⭐ 9655 `🔤 Python`
 - [Context-Engineering](https://github.com/davidkimai/Context-Engineering): "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. ⭐ 6588 `🔤 Python`
 
-## Agents & Collaboration
-
-- [agent-rules](https://github.com/steipete/agent-rules): Rules and knowledge to work better with agents such as Claude Code or Cursor. ⭐ 4352 `🔤 Shell`
-- [Backlog.md](https://github.com/MrLesk/Backlog.md): Manage project collaboration between humans and AI Agents in a git ecosystem. ⭐ 3221 `🔤 TypeScript`
-
-## Development Tools & Utilities
-
-- [zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server): Integrate Claude Code, GeminiCLI, CodexCLI, OpenAI, Grok, Ollama, and more in a unified workflow. ⭐ 6990 `🔤 Python`
-- [vibekit](https://github.com/superagent-ai/vibekit): Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. ⭐ 1210 `🔤 TypeScript`
-- [dotai](https://github.com/udecode/dotai): Ultimate AI development stack combining Claude Code, Task Master, Cursor, and more. ⭐ 1015 `🔤 Shell`
-- [prompts](https://github.com/kingkongshot/prompts): AI 相关的笔记 ⭐ 1646
-
-## Awesome Lists & Collections
-
-- [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools): A curated list of AI-powered coding tools. ⭐ 983
-
-## UI & Interface
-
-- [opencode](https://github.com/sst/opencode): AI coding agent, built for the terminal. ⭐ 22399 `🔤 Go`
-
 ## Claude Code Ecosystem
 
 ### Frameworks & Methodologies
@@ -141,6 +121,26 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 ### Awesome Lists & Collections
 
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): Curated list of commands, files, and workflows for Claude Code. ⭐ 13669 `🔤 Python`
+
+## Agents & Collaboration
+
+- [agent-rules](https://github.com/steipete/agent-rules): Rules and knowledge to work better with agents such as Claude Code or Cursor. ⭐ 4352 `🔤 Shell`
+- [Backlog.md](https://github.com/MrLesk/Backlog.md): Manage project collaboration between humans and AI Agents in a git ecosystem. ⭐ 3221 `🔤 TypeScript`
+
+## Development Tools & Utilities
+
+- [zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server): Integrate Claude Code, GeminiCLI, CodexCLI, OpenAI, Grok, Ollama, and more in a unified workflow. ⭐ 6990 `🔤 Python`
+- [vibekit](https://github.com/superagent-ai/vibekit): Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. ⭐ 1210 `🔤 TypeScript`
+- [dotai](https://github.com/udecode/dotai): Ultimate AI development stack combining Claude Code, Task Master, Cursor, and more. ⭐ 1015 `🔤 Shell`
+- [prompts](https://github.com/kingkongshot/prompts): AI 相关的笔记 ⭐ 1646
+
+## Awesome Lists & Collections
+
+- [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools): A curated list of AI-powered coding tools. ⭐ 983
+
+## UI & Interface
+
+- [opencode](https://github.com/sst/opencode): AI coding agent, built for the terminal. ⭐ 22399 `🔤 Go`
 
 ## Kiro Ecosystem
 
