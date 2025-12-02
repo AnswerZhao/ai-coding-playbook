@@ -64,7 +64,6 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 
 ### Tools & Extensions
 
-- [superpowers](https://github.com/obra/superpowers): Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - [claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure with customizable interaction layers. ⭐ 17148 `🔤 TypeScript`
 - [opcode](https://github.com/getAsterisk/opcode): GUI app and toolkit for Claude Code to create custom agents, manage sessions, and run secure background agents. ⭐ 16019 `🔤 TypeScript`
 - [claude-flow](https://github.com/ruvnet/claude-flow): Enterprise-grade development orchestration built around Claude Code. ⭐ 7353 `🔤 TypeScript`
@@ -102,6 +101,12 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 - [skills](https://github.com/anthropics/skills): Official Anthropic Claude Code skills catalog for extending agents with ready-to-use capabilities.
 - [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers): Curated Claude Code skill packs focused on streamlining development workflows and automation tasks.
 - [awesome-claude-skills](https://github.com/JayZeeDesign/awesome-claude-skills): Community-maintained list of Claude Code skills, examples, and supporting resources.
+- [superpowers](https://github.com/obra/superpowers): Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
+- [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase): Reference infrastructure and skill patterns to run Claude Code skills in production-like environments.
+- [awesome-claude-skills (ComposioHQ)](https://github.com/ComposioHQ/awesome-claude-skills): Curated Claude Code skill packs with composable workflows and integrations.
+- [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills): Scientific computing and research-oriented Claude Code skills.
+- [openskills](https://github.com/numman-ali/openskills): Open collection of Claude Code skills for common development tasks.
+- [claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus): Extended set of Claude Code plugins and skill packs.
 
 ### Development Utilities
 
