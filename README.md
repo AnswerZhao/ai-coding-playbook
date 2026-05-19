@@ -122,6 +122,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 ### Monitoring & Analytics
 
 - [Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): Real-time Claude Code usage monitor with predictions and warnings. ⭐ 4980 `🔤 Python`
+- [agenttrace](https://github.com/luoyuctl/agenttrace): Local TUI for inspecting AI coding agent sessions across cost, tokens, latency, and tool failures. ⭐ 32 `🔤 Go`
 
 ### Awesome Lists & Collections
 
