@@ -136,6 +136,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 
 - [zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server): Integrate Claude Code, GeminiCLI, CodexCLI, OpenAI, Grok, Ollama, and more in a unified workflow. ⭐ 6990 `🔤 Python`
 - [vibekit](https://github.com/superagent-ai/vibekit): Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. ⭐ 1210 `🔤 TypeScript`
+- [codex-profiles](https://github.com/Ducksss/codex-profiles): Switch Codex CLI/Desktop accounts with isolated CODEX_HOME profiles instead of copying auth files. ⭐ 16 `🔤 Shell`
 - [dotai](https://github.com/udecode/dotai): Ultimate AI development stack combining Claude Code, Task Master, Cursor, and more. ⭐ 1015 `🔤 Shell`
 - [prompts](https://github.com/kingkongshot/prompts): AI 相关的笔记 ⭐ 1646
 
