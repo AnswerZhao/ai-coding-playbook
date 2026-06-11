@@ -156,6 +156,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 ## AI Coding Blogs
 
 - [How to Use Claude Code Subagents to Parallelize Development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
+- [Wikivibe](https://wikivibe.ru/en/): Practical knowledge base for AI-assisted development with guides, a glossary, jobs, and a public MCP endpoint.
 
 ## Contributing
 
