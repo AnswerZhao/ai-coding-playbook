@@ -62,6 +62,8 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 - [claude-commands](https://github.com/badlogic/claude-commands): Global Claude Code commands and workflows. ⭐ 437
 - [claudecode-rule2hook](https://github.com/zxdxjtu/claudecode-rule2hook): Transform natural language project rules into Claude Code automation hooks. ⭐ 355 `🔤 Python`
 
+- [ariadne-loop](https://github.com/zhangzeyu99-web/ariadne-loop): Verifiable loop-engineering workflow for Codex, Claude Code, OpenClaw, and AI coding agents. ⭐ 0 `🔤 Python`
+
 ### Tools & Extensions
 
 - [claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure with customizable interaction layers. ⭐ 17148 `🔤 TypeScript`
