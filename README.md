@@ -47,6 +47,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 - [claude-conductor](https://github.com/superbasicstudio/claude-conductor): Claude Conductor - a simple Claude Code framework. ⭐ 188 `🔤 JavaScript`
 - [cc-sdd](https://github.com/pdoronila/cc-sdd): Spec Driven Development workflow inside Claude Code. ⭐ 50 `🔤 Shell`
 - [SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework): Configuration framework that transforms Claude Code into a structured development platform through automation and orchestration. ⭐ 15300
+- [claude-code-blueprint](https://github.com/faizkhairi/claude-code-blueprint): Framework-agnostic reference architecture for Claude Code — three behavioral rules (Verify-After-Complete, Diagnose-First, Plan-First) in a copy-one-file CLAUDE.md, plus optional hooks, agents, skills, and install presets. ⭐ 25
 
 ### Workflow & Automation
 
