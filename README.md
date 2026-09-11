@@ -138,6 +138,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 - [vibekit](https://github.com/superagent-ai/vibekit): Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. ⭐ 1210 `🔤 TypeScript`
 - [dotai](https://github.com/udecode/dotai): Ultimate AI development stack combining Claude Code, Task Master, Cursor, and more. ⭐ 1015 `🔤 Shell`
 - [prompts](https://github.com/kingkongshot/prompts): AI 相关的笔记 ⭐ 1646
+- [ContextStream](https://github.com/contextstream/mcp-server): Shared project memory / MCP for AI coding agents so Cursor, Claude, Codex, Grok, and others share context. ⭐ 43 `🔤 Rust`
 
 ## Awesome Lists & Collections
 
