@@ -123,6 +123,9 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 
 - [Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor): Real-time Claude Code usage monitor with predictions and warnings. ⭐ 4980 `🔤 Python`
 
+- [NextReset](https://nextreset.ai/) - Independent Codex reset-history and official-incident resource with source links and a browser-local personal timer.
+
+
 ### Awesome Lists & Collections
 
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): Curated list of commands, files, and workflows for Claude Code. ⭐ 13669 `🔤 Python`
