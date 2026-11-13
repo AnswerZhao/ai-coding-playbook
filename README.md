@@ -156,6 +156,7 @@ A curated list of awesome AI coding frameworks, workflows, patterns, tools and m
 ## AI Coding Blogs
 
 - [How to Use Claude Code Subagents to Parallelize Development](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
+- [The future of AI agents looks a lot like 2010](https://waldo.vanderlore.de/blog/how-i-run-my-agent-team/)
 
 ## Contributing
 
